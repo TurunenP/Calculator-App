@@ -46,8 +46,7 @@ const Layout = (props) => {
     
     return (
         <div>
-            <br></br>
-           <h1>A CALCULATOR APP</h1>
+           
         
         <div className="frame">
             <div className="calculator">
